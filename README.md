@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanyarai19" alt="chaitanyarai19" /></a> </p>
 
+[![@chaitanyarai19's Holopin board](https://holopin.io/api/user/board?user=chaitanyarai19)](https://holopin.io/@chaitanyarai19)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chaitanyarai19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaitanyarai19" height="30" width="40" /></a>
