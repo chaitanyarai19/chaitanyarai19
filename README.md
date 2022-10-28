@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanyarai19" alt="chaitanyarai19" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chaitanyarai19" target="blank"><img src="https://img.shields.io/twitter/follow/chaitanyarai19?logo=twitter&style=for-the-badge" alt="chaitanyarai19" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
