@@ -19,4 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanyarai19&show_icons=true&locale=en" alt="chaitanyarai19" /></p>
 [![@chaitanyarai19's Holopin board](https://holopin.me/chaitanyarai19)](https://holopin.io/@chaitanyarai19)
 
-<a href="https://www.holopin.io/@chaitanyarai19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaitanyarai19" /></a>
+<a href="https://www.holopin.io/@chaitanyarai19" target="blank"><img align="center" src="https://github.com/chaitanyarai19/chaitanyarai19/blob/main/holopin_chaitanyarai.PNG" alt="chaitanyarai19" /></a>
