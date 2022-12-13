@@ -32,10 +32,11 @@
 <p><a href="https://www.buymeacoffee.com/chaitanyarai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chaitanyarai" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanyarai19&show_icons=true&locale=en&layout=compact" alt="chaitanyarai19" /></p>
-
+<br>
+<center>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanyarai19&show_icons=true&locale=en" alt="chaitanyarai19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyarai19&" alt="chaitanyarai19" /></p>
-
+</center>
 
 <a href="https://www.holopin.io/@chaitanyarai19" target="blank"><img align="center" src="https://github.com/chaitanyarai19/chaitanyarai19/blob/main/holopin_chaitanyarai.PNG" alt="chaitanyarai19" /></a>
