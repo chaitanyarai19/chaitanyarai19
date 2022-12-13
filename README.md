@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanyarai19" alt="chaitanyarai19" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/chaitanya-rai-a33b10190/" target="blank"><img src="https://img.shields.io/linkedin/follow/chaitanyarai19?logo=twitter&style=for-the-badge" alt="chaitanyarai19" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/chaitanya-rai-a33b10190/" target="blank"><img src="https://img.shields.io/linkedin/follow/chaitanya-rai?logo=linkedin&style=for-the-badge" alt="chaitanya-rai" /></a> </p>
 <p align="left"> <a href="https://twitter.com/chaitanyarai19" target="blank"><img src="https://img.shields.io/twitter/follow/chaitanyarai19?logo=twitter&style=for-the-badge" alt="chaitanyarai19" /></a> </p>
 
 - 🔭 I’m currently working on [Bloodanytime](http://bloodanytime.com/)
