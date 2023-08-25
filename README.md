@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Cloud,React,MongoDb**
 
-- 👨‍💻 All of my projects are available at [https://chaitanyarai.in/resume](https://chaitanyarai.in/resume)
+/*👨‍💻 All of my projects are available at [https://chaitanyarai.in/resume](https://chaitanyarai.in/resume)*/
 
 - 💬 Ask me about **Php, Internet of Things(IOT)**
 
