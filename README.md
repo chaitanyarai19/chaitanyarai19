@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working in [cognizant technology solutions india private limited](https://www.cognizant.com/in/en)
 
-- 🌱 I’m currently learning **Cloud,React,MongoDb**
+- 🌱 I’m currently learning **Cloud, MERN Stack**
 
-- 💬 Ask me about **Php, Internet of Things(IOT)**
+- 💬 Ask me about **Php, Wordpress Internet of Things(IOT)**
 
 - 📫 How to reach me **chaitanyarai19@gmail.com**
 
