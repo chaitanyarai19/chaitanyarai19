@@ -36,5 +36,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyarai19&" alt="chaitanyarai19" /></p>
 </center>
 
-<a href="https://www.holopin.io/@chaitanyarai19" target="blank"><img align="center" src="https://github.com/chaitanyarai19/chaitanyarai19/blob/main/holopin_chaitanyarai.PNG" alt="chaitanyarai19" /></a>
 [![An image of @chaitanyarai19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chaitanyarai19)](https://holopin.io/@chaitanyarai19)
